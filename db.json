@@ -2,7 +2,7 @@
     "quiz": {
         "movies": {
             "q1": {
-                "question": "Which is my favorite movie?",
+                "question": "What is my favorite movie?",
                 "options": [
                     "The Departed",
                     "The Matrix",
@@ -24,7 +24,7 @@
         },
         "tv": {
             "q1": {
-                "question": "Which is my favorite tv show?",
+                "question": "What is my favorite tv show?",
                 "options": [
                     "It's Always Sunny in Philadelphia",
                     "This is Us",
