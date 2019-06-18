@@ -1,37 +1,47 @@
 {
     "quiz": {
-        "sport": {
+        "movies": {
             "q1": {
-                "question": "Which one is correct team name in NBA?",
+                "question": "Which is my favorite movie?",
                 "options": [
-                    "New York Bulls",
-                    "Los Angeles Kings",
-                    "Golden State Warriros",
-                    "Huston Rocket"
+                    "The Departed",
+                    "The Matrix",
+                    "The Bourne Identity",
+                    "Into the Wild"
                 ],
-                "answer": "Huston Rocket"
+                "answer": "The Matrix"
+            }
+             "q2": {
+                "question": "Who's the main star in 'The Beach' (2000)?",
+                "options": [
+                    "Morgan Freeman",
+                    "Woody Harrelson",
+                    "Leonardo DiCaprio",
+                    "Joaquin Pheonix"
+                ],
+                "answer": "Leonardo DiCaprio"
             }
         },
-        "maths": {
+        "tv": {
             "q1": {
-                "question": "5 + 7 = ?",
+                "question": "Which is my favorite tv show?",
                 "options": [
-                    "10",
-                    "11",
-                    "12",
-                    "13"
+                    "It's Always Sunny in Philadelphia",
+                    "This is Us",
+                    "Brooklyn Nine-Nine",
+                    "Black Mirror"
                 ],
-                "answer": "12"
+                "answer": "Black Mirror"
             },
             "q2": {
-                "question": "12 - 8 = ?",
+                "question": "Who is the main star in 'Friends from College' (2017)?",
                 "options": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
+                    "Will Arnett",
+                    "Amy Poehler",
+                    "Tina Fey",
+                    "Keegan-Michael Key"
                 ],
-                "answer": "4"
+                "answer": "Keegan-Michael Key"
             }
         }
     }
